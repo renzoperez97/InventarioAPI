@@ -1,0 +1,11 @@
+PASOS PARA PODER EJECUTAR EL PROYECTO
+
+Instalar:
+
+pip install uvicorn
+
+pip install fastapi sqlalchemy pyodbc python-dotenv uvicorn
+
+
+Levantar el swagger la API
+http://127.0.0.1:8000/docs#/
